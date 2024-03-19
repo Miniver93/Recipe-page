@@ -1,0 +1,12 @@
+main{
+    background-color: white;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    padding: 30px;
+    max-width: 100%;
+}
+
+main>header>img{
+    max-width: 100%;
+    width: 100%;
+}
